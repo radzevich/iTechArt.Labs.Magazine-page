@@ -1,0 +1,19 @@
+.title {
+    width: 100%;
+    padding: 60px 0px;
+    display: inline-block;
+    clear: left;
+}
+
+.title .text_size_big {
+    font-size: 30px;
+}
+
+.title .text_size_small {
+    font-size: 18px;
+}
+
+.title .button-with-image {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 20px;
+}

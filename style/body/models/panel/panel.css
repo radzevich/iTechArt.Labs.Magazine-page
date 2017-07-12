@@ -1,0 +1,28 @@
+.panel {
+    width: 270px;
+    height: 460px;
+}
+
+.panel img {
+    width: 270px;
+    height: 190px;
+}
+
+.panel .button {
+    width: auto;
+    padding: 8px;
+    font-size: 14px;
+}
+
+.panel__content {
+    /*Просто поймите и простите*/
+    margin-top: -5px;
+}
+
+.panel .button:hover {
+    border: 1px inset #5C5C5C;
+}
+
+.panel .button:active {
+    border-style: none;
+}

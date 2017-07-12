@@ -1,0 +1,12 @@
+.subscribe__text {
+    display: table;
+    width: 240px;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 30px;
+    color: #FFFFFF;
+}
+
+.subscribe__text span {
+    display: table-cell;
+    vertical-align: middle;
+}

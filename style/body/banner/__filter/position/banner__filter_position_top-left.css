@@ -1,0 +1,7 @@
+.banner__filter_position_top-left {
+    position: absolute;
+    width: 585px;
+    height: 220px;
+    background-image: url(../../../../../resource/img/banner.png);
+    z-index: 99;  
+}

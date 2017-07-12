@@ -1,0 +1,21 @@
+.content__circle-with-img {
+    display: table;
+    float: left;
+    margin: 15px 0px;
+    width: 130px;
+    height: 130px;
+    background-image: url(../../../../../resource/img/circle.png);
+    text-align: center;
+}
+
+.content__circle-with-img .fa {
+    color: #E24F43;
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 48px;
+    transition: 0.2s;
+}
+
+.content__circle-with-img .fa:hover {
+    font-size: 55px;
+}

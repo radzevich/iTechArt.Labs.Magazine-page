@@ -1,0 +1,23 @@
+.panel__content {
+    padding: 20px 30px;
+    height: 227px;
+    text-align: left;
+    border: 1px solid #DCDADB;
+}
+
+.panel__content > span {
+    font-size: 20px;
+}
+
+.panel__content p {
+    height: 120px;
+    line-height: 24px;
+    overflow: hidden;
+    font-family: 'SourceSansPro', sans-serif;
+    font-size: 14px;
+}
+
+.panel__content .button {
+    font-family: 'Fjalla One', sans-serif;
+    margin-top: 7px;
+}

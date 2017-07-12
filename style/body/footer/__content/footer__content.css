@@ -1,0 +1,16 @@
+.footer__content {
+    display: inline-block;
+    vertical-align: top;
+    width: 270px;
+    height: 50px;
+}
+
+.footer__content .text_size_small, .footer__content .link-button {
+    font-family: 'SourceSansPro', sans-serif;
+    font-size: 14px;
+    margin-top: 15px;
+}
+
+.footer__content .text_size_big {
+    font-size: 20px;
+}

@@ -1,0 +1,7 @@
+.banner__filter_position_bottom-right {
+    position: absolute;
+    width: 585px;
+    height: 220px;
+    background-position: -585px -220px;
+    background-image: url(../../../../../resource/img/banner.png);
+}

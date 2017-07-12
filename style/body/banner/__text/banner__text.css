@@ -1,0 +1,10 @@
+.banner__text {
+    bottom: 0px;
+    height: 40px;
+    padding: 0px 10px;
+    font-family: 'Fjalla One', serif;
+    font-size: 18px;
+    line-height: 40px;
+    z-index: 100;
+    position: absolute;
+}

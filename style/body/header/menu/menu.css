@@ -1,0 +1,14 @@
+.menu {
+    width: 570px;
+    list-style-type: none;
+    margin: 0;
+    padding-left: 0px;
+    overflow: hidden;
+    background-color: #FFFFFF;
+    color: #DCDCDC;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.menu li {
+    float: left;
+}

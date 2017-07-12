@@ -1,0 +1,10 @@
+.subscribe {
+    min-height: 100px;
+    padding: 30px 50px 30px 30px;
+    box-sizing: border-box;
+    background: #5C5C5C;
+}
+
+.subscribe__text {
+    float: left;
+}
