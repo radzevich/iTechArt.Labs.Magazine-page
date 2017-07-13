@@ -1,7 +1,5 @@
 .menu {
-    width: 570px;
     list-style-type: none;
-    margin: 0;
     padding-left: 0px;
     overflow: hidden;
     background-color: #FFFFFF;
@@ -10,5 +8,15 @@
 }
 
 .menu li {
-    float: left;
+    float: right;
+}
+
+.menu__item {
+    -webkit-transition: 0.3s; 
+    transition: 0.3s;
+}
+
+.menu__item:hover:not(.menu__item_active) {
+    color: #5C5C5C;
+    background-color: #C5C5C5;
 }

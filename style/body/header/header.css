@@ -1,7 +1,17 @@
 .header {
-    display: flex;
-    height: 120px;
-    padding-top: 30px;
+    padding: 30px 50px 30px 0;
     border-top: 6px solid #5C5C5C;
     box-sizing: border-box;
+    overflow: hidden;
+}
+
+.header__logo {
+    float: left;
+    max-width: 40%;
+}
+
+.header .menu {
+    float: right;
+    margin: 0;
+    max-width: 60%;
 }
