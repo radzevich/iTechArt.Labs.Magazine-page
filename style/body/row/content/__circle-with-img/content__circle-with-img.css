@@ -1,10 +1,12 @@
 .content__circle-with-img {
     display: table;
-    float: left;
-    margin: 15px 0px;
     width: 130px;
     height: 130px;
-    background-image: url(../../../../../resource/img/circle.png);
+    -moz-border-radius: 65px;
+	-webkit-border-radius: 65px;
+    border-radius: 65px;
+    border: 2px solid #DFDFDF;
+    box-sizing: border-box;
     text-align: center;
 }
 
