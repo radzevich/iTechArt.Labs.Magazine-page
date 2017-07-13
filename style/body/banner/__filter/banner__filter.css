@@ -1,0 +1,36 @@
+.banner__filter {
+    position: absolute;
+    width: 585px;
+    height: 220px;
+    background-image: url(../../../../img/banner.png);
+    z-index: 99;
+}
+
+.banner__filter {
+    -webkit-filter: brightness(1);
+    filter: brightness(1);
+    transition: 0.5s;
+}
+
+.banner__filter_position_top-right {
+    background-position: -585px 0px;
+}
+
+.banner__filter_position_bottom-left {
+    background-position: 0px -220px;
+}
+
+.banner__filter_position_bottom-right {
+    background-position: -585px -220px;   
+}
+
+.banner__filter_position_top-left {
+    -webkit-filter: brightness(.5);
+    filter: brightness(.5);
+}
+
+.banner__filter_position_top-right, 
+.banner__filter_position_bottom-left {
+    -webkit-filter: brightness(.7);
+    filter: brightness(.7);
+}

@@ -1,0 +1,22 @@
+.menu {
+    list-style-type: none;
+    padding-left: 0px;
+    overflow: hidden;
+    background-color: #FFFFFF;
+    color: #DCDCDC;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.menu li {
+    float: right;
+}
+
+.menu__item {
+    -webkit-transition: 0.3s; 
+    transition: 0.3s;
+}
+
+.menu__item:hover:not(.menu__item_active) {
+    color: #5C5C5C;
+    background-color: #C5C5C5;
+}

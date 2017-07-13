@@ -1,0 +1,16 @@
+.title {
+    width: 100%;
+    padding: 60px 0px;
+    display: inline-block;
+    clear: left;
+}
+
+.title__text {
+    float: left;
+}
+
+.title .button-with-image {
+    float: right;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 20px;
+}

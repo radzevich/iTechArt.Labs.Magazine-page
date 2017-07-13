@@ -1,0 +1,22 @@
+.subscribe-form .button {
+    float: right;
+    width: 130px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 18px;
+    border-style: none;
+}
+
+.subscribe-form__input {
+    float: left;
+    margin-right: 20px;
+    height: 40px;
+    width: 340px;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    font-family: 'SourceSansPro', sans-serif;
+    font-size: 14px;
+    border-radius: 5px 5px 5px 5px;
+    border-style: none;
+}

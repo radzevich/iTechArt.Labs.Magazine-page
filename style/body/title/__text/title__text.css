@@ -1,0 +1,13 @@
+.title__text {
+    width: 940px;
+}
+
+.title .text_size_big {
+    margin: 0;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.title .text_size_small {
+    font-size: 18px;
+}

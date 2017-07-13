@@ -1,0 +1,23 @@
+.content__circle-with-img {
+    display: table;
+    width: 130px;
+    height: 130px;
+    -moz-border-radius: 65px;
+	-webkit-border-radius: 65px;
+    border-radius: 65px;
+    border: 3px solid #DFDFDF;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.content__circle-with-img .fa {
+    color: #E24F43;
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 48px;
+    transition: 0.2s;
+}
+
+.content__circle-with-img .fa:hover {
+    font-size: 55px;
+}

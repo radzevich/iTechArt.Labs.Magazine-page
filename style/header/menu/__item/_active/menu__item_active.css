@@ -1,0 +1,5 @@
+.menu__item_active {
+    background: #E24F43;
+    color: #FFFFFF;
+    border-radius: 3px;
+}

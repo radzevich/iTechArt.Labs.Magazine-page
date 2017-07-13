@@ -1,0 +1,26 @@
+.button-with-image {
+    text-align: center;
+    transition: all 0.5s;
+}
+
+.button-with-image span {
+    transition: 0.5s;
+}
+
+.button-with-image .fa {
+    margin-left: -100px;
+    margin-right: 80px;
+    opacity: 0;
+    font-size: 18px;
+    transition: 0.5s;
+}
+
+.button-with-image:hover .fa {
+    opacity: 1;
+    margin-left: -10px;
+    margin-right: 5px;
+}
+
+.button-with-image:hover span {
+    margin-left: 5px;
+}

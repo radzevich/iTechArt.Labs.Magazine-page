@@ -1,0 +1,8 @@
+.content {
+    width: 585px;
+    box-sizing: border-box;
+}
+
+.content__circle-with-img {
+    float: left;
+}

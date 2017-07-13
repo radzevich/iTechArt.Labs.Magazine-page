@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Fjalla One';
+    src: url(fjallaOne.otf) format("opentype"); 
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SourceSansPro';
+    src: url(SourceSansPro-Regular.otf) format("opentype"); 
+    font-style: normal;
+}
+

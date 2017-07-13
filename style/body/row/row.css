@@ -1,0 +1,15 @@
+.row {
+    display: inline-block;
+}
+
+.row .content {
+    margin: 15px 0;
+}
+
+.row .content:nth-child(even) {
+    float: right;
+}
+
+.row .content:nth-child(odd) {
+    float: left;;
+}
