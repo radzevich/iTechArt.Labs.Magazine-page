@@ -5,13 +5,13 @@
     border: 1px solid #DCDADB;
 }
 
-.panel__content > h3 {
+.panel__content > .text_size_big {
     margin: 10px 0;
     font-size: 20px;
     font-weight: 400;
 }
 
-.panel__content p {
+.panel__content .text_size_small {
     height: 120px;
     line-height: 24px;
     overflow: hidden;
