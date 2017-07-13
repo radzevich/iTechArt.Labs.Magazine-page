@@ -1,12 +1,14 @@
 .panel__content {
-    padding: 20px 30px;
+    padding: 10px 30px 20px;
     height: 227px;
     text-align: left;
     border: 1px solid #DCDADB;
 }
 
-.panel__content > span {
+.panel__content > h3 {
+    margin: 10px 0;
     font-size: 20px;
+    font-weight: 400;
 }
 
 .panel__content p {

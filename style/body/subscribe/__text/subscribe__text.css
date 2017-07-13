@@ -1,9 +1,10 @@
 .subscribe__text {
     display: table;
-    width: 240px;
+    line-height: 40px;
     font-family: 'Fjalla One', sans-serif;
     font-size: 30px;
     color: #FFFFFF;
+    overflow: hidden;
 }
 
 .subscribe__text span {
