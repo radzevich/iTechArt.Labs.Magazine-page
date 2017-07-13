@@ -1,10 +1,11 @@
 .banner {
     width: 1170px;
     height: 440px;
-    background-image: url(../../../resource/img/banner.png);
+    background-image: url(../../../img/banner.png);
 }
 
 .banner__img-with-text {
+    float: left;
     opacity: 0;
     transition: 0.5s;
 }
