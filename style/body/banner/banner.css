@@ -1,5 +1,14 @@
 .banner {
     width: 1170px;
     height: 440px;
+    background-image: url(../../../resource/img/banner.png);
 }
 
+.banner__img-with-text {
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.banner__img-with-text:hover {
+    opacity: 1;
+}

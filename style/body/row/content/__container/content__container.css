@@ -1,0 +1,20 @@
+.content__container {
+    width: 455px;
+    height: 110px;
+    float: right;
+    padding: 10px 30px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.content__container .text_size_big {
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.content__container .text_size_small {
+    font-family: 'SourceSansPro', sans-serif;
+    bottom: 20px;
+    font-size: 14px;
+}

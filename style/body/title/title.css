@@ -5,15 +5,12 @@
     clear: left;
 }
 
-.title .text_size_big {
-    font-size: 30px;
-}
-
-.title .text_size_small {
-    font-size: 18px;
+.title__text {
+    float: left;
 }
 
 .title .button-with-image {
+    float: right;
     font-family: 'Fjalla One', sans-serif;
     font-size: 20px;
 }

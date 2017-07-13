@@ -4,30 +4,3 @@
     width: 585px;
     height: 220px;
 }
-
-.banner__filter, .banner__img-with-text {
-    -webkit-filter: brightness(1);
-    filter: brightness(1);
-    transition: 0.5s;
-}
-
-.banner__text {
-    opacity: 0;
-    transition: 0.5s;
-}
-
-.banner__img-with-text:hover .banner__filter_position_top-left {
-    -webkit-filter: brightness(.5);
-    filter: brightness(.5);
-}
-
-.banner__img-with-text:hover .banner__filter_position_top-right, 
-.banner__img-with-text:hover .banner__filter_position_bottom-left {
-    -webkit-filter: brightness(.7);
-    filter: brightness(.7);
-}
-
-.banner__img-with-text:hover .banner__text {
-    opacity: 1;
-}
-

@@ -3,18 +3,6 @@
     box-sizing: border-box;
 }
 
-.content .text_size_big {
-    margin-bottom: 10px;
-    font-size: 20px;
-    font-weight: 400;
-}
-
-.content .text_size_small {
-    font-family: 'SourceSansPro', sans-serif;
-    bottom: 20px;
-    font-size: 14px;
-}
-
 .content__circle-with-img {
     float: left;
 }
