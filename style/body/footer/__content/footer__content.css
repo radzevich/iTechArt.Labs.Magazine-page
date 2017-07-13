@@ -5,10 +5,13 @@
     height: 50px;
 }
 
+.footer__content h2 {
+    font-weight: 400;
+}
+
 .footer__content .text_size_small, .footer__content .link-button {
     font-family: 'SourceSansPro', sans-serif;
     font-size: 14px;
-    margin-top: 15px;
 }
 
 .footer__content .text_size_big {
